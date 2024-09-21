@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "mario lost",
+  "identifier": "texture:1767-df4a9ff1-7dd9-4283-bee2-ae66a4671ba3",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "c2e23ea40d16c8e6245cd1408953b2f2",
+  "assetLocator": "textures/mario lost.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:1911-df4a9ff1-7dd9-4283-bee2-ae66a4671ba3",
+    "textureExportConfig:2055-df4a9ff1-7dd9-4283-bee2-ae66a4671ba3",
+    "textureExportConfig:2203-df4a9ff1-7dd9-4283-bee2-ae66a4671ba3"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 724,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "c2e23ea40d16c8e6245cd1408953b2f2",
+      "colorCount": 1215,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 3.7845412068630027,
+      "pixelsHigh": 1024,
+      "pixelsWide": 724
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "turtle obstacle(1)",
+  "identifier": "texture:3661-df4a9ff1-7dd9-4283-bee2-ae66a4671ba3",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "764092124f0b11e83fa99be7b1843a00",
+  "assetLocator": "textures/turtle obstacle(1).png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:5537-df4a9ff1-7dd9-4283-bee2-ae66a4671ba3",
+    "textureExportConfig:5735-df4a9ff1-7dd9-4283-bee2-ae66a4671ba3",
+    "textureExportConfig:5939-df4a9ff1-7dd9-4283-bee2-ae66a4671ba3"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 896,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "764092124f0b11e83fa99be7b1843a00",
+      "colorCount": 3234,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 2.434953916845409,
+      "pixelsHigh": 1024,
+      "pixelsWide": 896
+    }
+  ]
+}

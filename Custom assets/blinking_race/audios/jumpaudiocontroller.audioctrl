@@ -1,0 +1,8 @@
+{
+  "modelName": "playback_controller_model",
+  "name": "jumpaudiocontroller",
+  "identifier": "playback_controller_model:73058-f41e2c0d-f006-4e82-8b4b-b003d7e63ce4",
+  "needsContinuousLooping": false,
+  "needsContinuousPlaying": false,
+  "soundIdentifier": "sound:72104-f41e2c0d-f006-4e82-8b4b-b003d7e63ce4"
+}

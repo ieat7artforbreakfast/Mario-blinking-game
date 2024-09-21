@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "Super-Mario-Bros-PNG-Transparent-HD-Photo(1)",
+  "identifier": "texture:3657-df4a9ff1-7dd9-4283-bee2-ae66a4671ba3",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "94763363ff25ed413f9752d11474b76e",
+  "assetLocator": "textures/Super-Mario-Bros-PNG-Transparent-HD-Photo(1).png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:5535-df4a9ff1-7dd9-4283-bee2-ae66a4671ba3",
+    "textureExportConfig:5733-df4a9ff1-7dd9-4283-bee2-ae66a4671ba3",
+    "textureExportConfig:5937-df4a9ff1-7dd9-4283-bee2-ae66a4671ba3"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 802,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "94763363ff25ed413f9752d11474b76e",
+      "colorCount": 542,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 4.665542471555573,
+      "pixelsHigh": 1024,
+      "pixelsWide": 802
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "mario bg",
+  "identifier": "texture:751-df4a9ff1-7dd9-4283-bee2-ae66a4671ba3",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "f4cc3cfc24a25dd519d3a5ec910c2068",
+  "assetLocator": "textures/mario bg.jpg",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:2355-df4a9ff1-7dd9-4283-bee2-ae66a4671ba3",
+    "textureExportConfig:2507-df4a9ff1-7dd9-4283-bee2-ae66a4671ba3",
+    "textureExportConfig:2661-df4a9ff1-7dd9-4283-bee2-ae66a4671ba3"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 768,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "f4cc3cfc24a25dd519d3a5ec910c2068",
+      "colorCount": 6419,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "jpeg",
+      "entropyOfDistribution": 2.5482546598868434,
+      "pixelsHigh": 768,
+      "pixelsWide": 1024
+    }
+  ]
+}

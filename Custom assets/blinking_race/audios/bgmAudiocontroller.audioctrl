@@ -1,0 +1,8 @@
+{
+  "modelName": "playback_controller_model",
+  "name": "bgmAudiocontroller",
+  "identifier": "playback_controller_model:73538-f41e2c0d-f006-4e82-8b4b-b003d7e63ce4",
+  "needsContinuousLooping": false,
+  "needsContinuousPlaying": false,
+  "soundIdentifier": "sound:72102-f41e2c0d-f006-4e82-8b4b-b003d7e63ce4"
+}

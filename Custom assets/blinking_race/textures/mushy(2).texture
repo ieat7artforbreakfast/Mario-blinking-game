@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "mushy(2)",
+  "identifier": "texture:3653-df4a9ff1-7dd9-4283-bee2-ae66a4671ba3",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "7bf171a5e60a9fbbcdc9dfcd34144667",
+  "assetLocator": "textures/mushy(2).png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:5533-df4a9ff1-7dd9-4283-bee2-ae66a4671ba3",
+    "textureExportConfig:5731-df4a9ff1-7dd9-4283-bee2-ae66a4671ba3",
+    "textureExportConfig:5935-df4a9ff1-7dd9-4283-bee2-ae66a4671ba3"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 180,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 202,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "7bf171a5e60a9fbbcdc9dfcd34144667",
+      "colorCount": 4497,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 5.8981428242806935,
+      "pixelsHigh": 180,
+      "pixelsWide": 202
+    }
+  ]
+}
